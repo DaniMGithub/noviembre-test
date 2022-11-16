@@ -1,3 +1,4 @@
+/*Todo el fondo*/
 *{
     background-color: white;
     margin: 0px;
@@ -15,6 +16,16 @@
     margin-left: 10%;
     overflow: hidden;
   
+}
+
+/*Colores del primer título y subtitulo*/
+.subtitle{
+    color: red;
+    text-transform: uppercase;
+}
+
+.tit{
+    color:  #181e4b;
 }
 
 
@@ -35,11 +46,10 @@
 
 }
 
-    h6 h1 p{
-        color: black;
-}
 
+/*Cartas con */
 .cartas{
+    margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
@@ -58,6 +68,16 @@
    
 }
 
+.derecha{
+    text-align: left;
+    margin-bottom: 5%;
+}
+
+.izquierda{
+    text-align: left;   
+}
+
+/**/
 .fotin{
     width: 50%;
 }
