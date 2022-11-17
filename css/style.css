@@ -104,6 +104,18 @@
   margin-bottom: 5%;
 }
 
+/*suscripción*/
+.suscripcion {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+.suscribe {
+  color: #9495ad;
+}
+
+/*footer*/
 .nav-link:hover {
   color: orange;
 }
