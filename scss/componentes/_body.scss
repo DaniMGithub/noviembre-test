@@ -18,6 +18,10 @@
   
 }
 
+.loguito{
+    align-content: left;
+}
+
 /*Colores del primer título y subtitulo*/
 .subtitle{
     color: red;
@@ -112,6 +116,10 @@
 .marcas{
     margin-top: 5%;
     margin-bottom: 5%;
+    display: row;
+    align-content: stretch;
+   
+   
 }
 
   /*suscripción*/
@@ -129,9 +137,10 @@
 /*footer*/
 
 .foot{
- 
+ margin-top: 5%;
 }
 
 .footer-list{
-   
+   list-style: none;
+   margin: 0%;
 }
