@@ -10,11 +10,11 @@
 
 .chica {
   display: flex;
-  align-content: flex-start;
+  align-content: flex-end;
   justify-content: right;
   width: 100%;
   margin-top: 5%;
-  margin-left: 10%;
+  margin-left: 11%;
   overflow: hidden;
 }
 
@@ -191,11 +191,18 @@
   text-align: center;
 }
 
-.amarillo {
-  background-color: #f0bb1f;
-  border: 0px;
+.iconitos-foto {
+  width: 40px;
+  height: 40px;
+  font-size: 15px;
+  text-align: center;
 }
 
+/*
+.amarillo{
+    background-color: #f0bb1f ;
+    border: 0px;
+} */
 .naranja {
   background-color: #f15a2b;
   border: 0px;
