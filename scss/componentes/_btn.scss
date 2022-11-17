@@ -52,11 +52,22 @@
 
 .amarillo{
     background-color: #f0bb1f ;
+    border: 0px;
 }
 
 .naranja{
  background-color: #f15a2b;
+ border: 0px;
 }
 .azul{
  background-color: #006380;
+ border: 0px;
 }
+
+.botonimagen{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%; 
+    padding: 1rem;
+    align-self: flex-start;
+  }

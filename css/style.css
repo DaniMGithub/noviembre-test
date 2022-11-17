@@ -91,6 +91,19 @@
   height: 30%;
 }
 
+/*comentarios*/
+.comentarios {
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: left;
+}
+
+/*marcas*/
+.marcas {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
 .nav-link:hover {
   color: orange;
 }
@@ -153,14 +166,25 @@
 
 .amarillo {
   background-color: #f0bb1f;
+  border: 0px;
 }
 
 .naranja {
   background-color: #f15a2b;
+  border: 0px;
 }
 
 .azul {
   background-color: #006380;
+  border: 0px;
+}
+
+.botonimagen {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  padding: 1rem;
+  align-self: flex-start;
 }
 
 /*# sourceMappingURL=style.css.map */
